@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<configs>
+
+	<append xpath="/items">
+		<item name="imFoodRawPoultry">
+			<property name="Extends" value="foodRawMeat"/>
+			<property name="CustomIcon" value="foodRawMeat"/>
+			<property name="EconomicValue" value="12"/>
+			<property name="DescriptionKey" value="imFoodRawPoultryDesc"/>
+		</item>
+
+		<item name="imFoodRawSmallGame">
+			<property name="Extends" value="foodRawMeat"/>
+			<property name="CustomIcon" value="foodRawMeat"/>
+			<property name="EconomicValue" value="12"/>
+			<property name="DescriptionKey" value="imFoodRawSmallGameDesc"/>
+		</item>
+
+		<item name="imFoodRawReptileMeat">
+			<property name="Extends" value="foodRawMeat"/>
+			<property name="CustomIcon" value="foodRawMeat"/>
+			<property name="EconomicValue" value="12"/>
+			<property name="DescriptionKey" value="imFoodRawReptileMeatDesc"/>
+		</item>
+
+		<item name="imFoodRawVenison">
+			<property name="Extends" value="foodRawMeat"/>
+			<property name="CustomIcon" value="foodRawMeat"/>
+			<property name="EconomicValue" value="16"/>
+			<property name="DescriptionKey" value="imFoodRawVenisonDesc"/>
+		</item>
+
+		<item name="imFoodRawPork">
+			<property name="Extends" value="foodRawMeat"/>
+			<property name="CustomIcon" value="foodRawMeat"/>
+			<property name="EconomicValue" value="16"/>
+			<property name="DescriptionKey" value="imFoodRawPorkDesc"/>
+		</item>
+
+		<item name="imFoodRawPredatorMeat">
+			<property name="Extends" value="foodRawMeat"/>
+			<property name="CustomIcon" value="foodRawMeat"/>
+			<property name="EconomicValue" value="18"/>
+			<property name="DescriptionKey" value="imFoodRawPredatorMeatDesc"/>
+		</item>
+
+		<item name="imFoodRawBearMeat">
+			<property name="Extends" value="foodRawMeat"/>
+			<property name="CustomIcon" value="foodRawMeat"/>
+			<property name="EconomicValue" value="20"/>
+			<property name="DescriptionKey" value="imFoodRawBearMeatDesc"/>
+		</item>
+
+		<item name="imFoodPoultryCut">
+			<property name="Extends" value="foodRawMeat"/>
+			<property name="CustomIcon" value="foodRawMeat"/>
+			<property name="EconomicValue" value="50"/>
+			<property name="DescriptionKey" value="imFoodPoultryCutDesc"/>
+		</item>
+
+		<item name="imFoodSmallGameCut">
+			<property name="Extends" value="foodRawMeat"/>
+			<property name="CustomIcon" value="foodRawMeat"/>
+			<property name="EconomicValue" value="50"/>
+			<property name="DescriptionKey" value="imFoodSmallGameCutDesc"/>
+		</item>
+
+		<item name="imFoodReptileCut">
+			<property name="Extends" value="foodRawMeat"/>
+			<property name="CustomIcon" value="foodRawMeat"/>
+			<property name="EconomicValue" value="50"/>
+			<property name="DescriptionKey" value="imFoodReptileCutDesc"/>
+		</item>
+
+		<item name="imFoodVenisonCut">
+			<property name="Extends" value="foodRawMeat"/>
+			<property name="CustomIcon" value="foodRawMeat"/>
+			<property name="EconomicValue" value="64"/>
+			<property name="DescriptionKey" value="imFoodVenisonCutDesc"/>
+		</item>
+
+		<item name="imFoodPorkCut">
+			<property name="Extends" value="foodRawMeat"/>
+			<property name="CustomIcon" value="foodRawMeat"/>
+			<property name="EconomicValue" value="64"/>
+			<property name="DescriptionKey" value="imFoodPorkCutDesc"/>
+		</item>
+
+		<item name="imFoodPredatorCut">
+			<property name="Extends" value="foodRawMeat"/>
+			<property name="CustomIcon" value="foodRawMeat"/>
+			<property name="EconomicValue" value="72"/>
+			<property name="DescriptionKey" value="imFoodPredatorCutDesc"/>
+		</item>
+
+		<item name="imFoodBearCut">
+			<property name="Extends" value="foodRawMeat"/>
+			<property name="CustomIcon" value="foodRawMeat"/>
+			<property name="EconomicValue" value="80"/>
+			<property name="DescriptionKey" value="imFoodBearCutDesc"/>
+		</item>
+	</append>
+
+</configs>
+

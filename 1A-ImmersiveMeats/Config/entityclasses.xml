@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<configs>
+
+	<set xpath="/entity_classes/entity_class[@name='animalChicken']/drop[@event='Harvest' and @name='foodRawMeat' and @tag='butcherHarvest']/@name">imFoodRawPoultry</set>
+	<set xpath="/entity_classes/entity_class[@name='animalChickenHostile']/drop[@event='Harvest' and @name='foodRawMeat' and @tag='butcherHarvest']/@name">imFoodRawPoultry</set>
+
+	<set xpath="/entity_classes/entity_class[@name='animalRabbit']/drop[@event='Harvest' and @name='foodRawMeat' and @tag='butcherHarvest']/@name">imFoodRawSmallGame</set>
+
+	<set xpath="/entity_classes/entity_class[@name='animalSnake']/drop[@event='Harvest' and @name='foodRawMeat' and @tag='butcherHarvest']/@name">imFoodRawReptileMeat</set>
+
+	<set xpath="/entity_classes/entity_class[@name='animalStag']/drop[@event='Harvest' and @name='foodRawMeat' and @tag='butcherHarvest']/@name">imFoodRawVenison</set>
+	<set xpath="/entity_classes/entity_class[@name='animalDoe']/drop[@event='Harvest' and @name='foodRawMeat' and @tag='butcherHarvest']/@name">imFoodRawVenison</set>
+
+	<set xpath="/entity_classes/entity_class[@name='animalBoar']/drop[@event='Harvest' and @name='foodRawMeat' and @tag='butcherHarvest']/@name">imFoodRawPork</set>
+
+	<set xpath="/entity_classes/entity_class[@name='animalCoyote']/drop[@event='Harvest' and @name='foodRawMeat' and @tag='butcherHarvest']/@name">imFoodRawPredatorMeat</set>
+	<set xpath="/entity_classes/entity_class[@name='animalWolf']/drop[@event='Harvest' and @name='foodRawMeat' and @tag='butcherHarvest']/@name">imFoodRawPredatorMeat</set>
+	<set xpath="/entity_classes/entity_class[@name='animalMountainLion']/drop[@event='Harvest' and @name='foodRawMeat' and @tag='butcherHarvest']/@name">imFoodRawPredatorMeat</set>
+
+	<set xpath="/entity_classes/entity_class[@name='animalBear']/drop[@event='Harvest' and @name='foodRawMeat' and @tag='butcherHarvest']/@name">imFoodRawBearMeat</set>
+	<set xpath="/entity_classes/entity_class[@name='animalBearSmall']/drop[@event='Harvest' and @name='foodRawMeat' and @tag='butcherHarvest']/@name">imFoodRawBearMeat</set>
+
+</configs>
+

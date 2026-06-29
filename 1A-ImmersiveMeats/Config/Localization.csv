@@ -1,0 +1,30 @@
+Key,File,Type,UsedInMainMenu,NoTranslate,KeepLoaded,english
+imFoodRawPoultry,items,Food,,,,Raw Poultry
+imFoodRawPoultryDesc,items,Food,,,,Fresh poultry that needs butchering before it cooks cleanly.
+imFoodRawSmallGame,items,Food,,,,Raw Small Game
+imFoodRawSmallGameDesc,items,Food,,,,Small animal meat that needs careful butchering before cooking.
+imFoodRawReptileMeat,items,Food,,,,Raw Reptile Meat
+imFoodRawReptileMeatDesc,items,Food,,,,Lean reptile meat that needs butchering before cooking.
+imFoodRawVenison,items,Food,,,,Raw Venison
+imFoodRawVenisonDesc,items,Food,,,,Fresh deer meat that can be butchered into cooking cuts.
+imFoodRawPork,items,Food,,,,Raw Pork
+imFoodRawPorkDesc,items,Food,,,,Fresh pork that can be butchered into cooking cuts.
+imFoodRawPredatorMeat,items,Food,,,,Raw Predator Meat
+imFoodRawPredatorMeatDesc,items,Food,,,,Meat from a dangerous predator. Butcher it before cooking.
+imFoodRawBearMeat,items,Food,,,,Raw Bear Meat
+imFoodRawBearMeatDesc,items,Food,,,,Heavy bear meat that can be butchered into rich cooking cuts.
+imFoodPoultryCut,items,Food,,,,Poultry Cut
+imFoodPoultryCutDesc,items,Food,,,,A cleaned poultry cut ready for the campfire.
+imFoodSmallGameCut,items,Food,,,,Small Game Cut
+imFoodSmallGameCutDesc,items,Food,,,,A cleaned cut of small game ready for the campfire.
+imFoodReptileCut,items,Food,,,,Reptile Cut
+imFoodReptileCutDesc,items,Food,,,,A cleaned reptile cut ready for the campfire.
+imFoodVenisonCut,items,Food,,,,Venison Cut
+imFoodVenisonCutDesc,items,Food,,,,A cleaned venison cut ready for the campfire.
+imFoodPorkCut,items,Food,,,,Pork Cut
+imFoodPorkCutDesc,items,Food,,,,A cleaned pork cut ready for the campfire.
+imFoodPredatorCut,items,Food,,,,Predator Cut
+imFoodPredatorCutDesc,items,Food,,,,A cleaned predator meat cut ready for the campfire.
+imFoodBearCut,items,Food,,,,Bear Cut
+imFoodBearCutDesc,items,Food,,,,A cleaned bear meat cut ready for the campfire.
+

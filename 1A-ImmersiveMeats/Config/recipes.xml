@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<configs>
+
+	<remove xpath="/recipes/recipe[@name='foodBoiledMeat']"/>
+	<remove xpath="/recipes/recipe[@name='foodCharredMeat']"/>
+	<remove xpath="/recipes/recipe[@name='foodGrilledMeat']"/>
+
+	<append xpath="/recipes">
+		<recipe name="imFoodPoultryCut" count="1" craft_time="3" tags="perkMasterChef,packMuleCrafting">
+			<ingredient name="imFoodRawPoultry" count="5"/>
+		</recipe>
+
+		<recipe name="imFoodSmallGameCut" count="1" craft_time="3" tags="perkMasterChef,packMuleCrafting">
+			<ingredient name="imFoodRawSmallGame" count="5"/>
+		</recipe>
+
+		<recipe name="imFoodReptileCut" count="1" craft_time="3" tags="perkMasterChef,packMuleCrafting">
+			<ingredient name="imFoodRawReptileMeat" count="5"/>
+		</recipe>
+
+		<recipe name="imFoodVenisonCut" count="1" craft_time="3" tags="perkMasterChef,packMuleCrafting">
+			<ingredient name="imFoodRawVenison" count="4"/>
+		</recipe>
+
+		<recipe name="imFoodPorkCut" count="1" craft_time="3" tags="perkMasterChef,packMuleCrafting">
+			<ingredient name="imFoodRawPork" count="4"/>
+		</recipe>
+
+		<recipe name="imFoodPredatorCut" count="1" craft_time="3" tags="perkMasterChef,packMuleCrafting">
+			<ingredient name="imFoodRawPredatorMeat" count="4"/>
+		</recipe>
+
+		<recipe name="imFoodBearCut" count="1" craft_time="3" tags="perkMasterChef,packMuleCrafting">
+			<ingredient name="imFoodRawBearMeat" count="4"/>
+		</recipe>
+
+		<recipe name="foodCharredMeat" count="1" craft_area="campfire" tags="perkMasterChef,cookingPotFood">
+			<ingredient name="imFoodPoultryCut" count="1"/>
+		</recipe>
+
+		<recipe name="foodCharredMeat" count="1" craft_area="campfire" tags="perkMasterChef,cookingPotFood">
+			<ingredient name="imFoodSmallGameCut" count="1"/>
+		</recipe>
+
+		<recipe name="foodCharredMeat" count="1" craft_area="campfire" tags="perkMasterChef,cookingPotFood">
+			<ingredient name="imFoodReptileCut" count="1"/>
+		</recipe>
+
+		<recipe name="foodCharredMeat" count="1" craft_area="campfire" tags="perkMasterChef,cookingPotFood">
+			<ingredient name="imFoodVenisonCut" count="1"/>
+		</recipe>
+
+		<recipe name="foodCharredMeat" count="1" craft_area="campfire" tags="perkMasterChef,cookingPotFood">
+			<ingredient name="imFoodPorkCut" count="1"/>
+		</recipe>
+
+		<recipe name="foodCharredMeat" count="1" craft_area="campfire" tags="perkMasterChef,cookingPotFood">
+			<ingredient name="imFoodPredatorCut" count="1"/>
+		</recipe>
+
+		<recipe name="foodCharredMeat" count="1" craft_area="campfire" tags="perkMasterChef,cookingPotFood">
+			<ingredient name="imFoodBearCut" count="1"/>
+		</recipe>
+
+		<recipe name="foodGrilledMeat" count="1" craft_area="campfire" craft_tool="toolCookingGrill" tags="perkMasterChef,learnable,grill">
+			<ingredient name="imFoodPoultryCut" count="1"/>
+		</recipe>
+
+		<recipe name="foodGrilledMeat" count="1" craft_area="campfire" craft_tool="toolCookingGrill" tags="perkMasterChef,learnable,grill">
+			<ingredient name="imFoodSmallGameCut" count="1"/>
+		</recipe>
+
+		<recipe name="foodGrilledMeat" count="1" craft_area="campfire" craft_tool="toolCookingGrill" tags="perkMasterChef,learnable,grill">
+			<ingredient name="imFoodReptileCut" count="1"/>
+		</recipe>
+
+		<recipe name="foodGrilledMeat" count="1" craft_area="campfire" craft_tool="toolCookingGrill" tags="perkMasterChef,learnable,grill">
+			<ingredient name="imFoodVenisonCut" count="1"/>
+		</recipe>
+
+		<recipe name="foodGrilledMeat" count="1" craft_area="campfire" craft_tool="toolCookingGrill" tags="perkMasterChef,learnable,grill">
+			<ingredient name="imFoodPorkCut" count="1"/>
+		</recipe>
+
+		<recipe name="foodGrilledMeat" count="1" craft_area="campfire" craft_tool="toolCookingGrill" tags="perkMasterChef,learnable,grill">
+			<ingredient name="imFoodPredatorCut" count="1"/>
+		</recipe>
+
+		<recipe name="foodGrilledMeat" count="1" craft_area="campfire" craft_tool="toolCookingGrill" tags="perkMasterChef,learnable,grill">
+			<ingredient name="imFoodBearCut" count="1"/>
+		</recipe>
+
+		<recipe name="foodBoiledMeat" count="1" craft_area="campfire" craft_tool="toolCookingPot" tags="perkMasterChef,learnable,cookingPotFood">
+			<ingredient name="imFoodPoultryCut" count="1"/>
+			<ingredient name="drinkJarBoiledWater" count="1"/>
+		</recipe>
+
+		<recipe name="foodBoiledMeat" count="1" craft_area="campfire" craft_tool="toolCookingPot" tags="perkMasterChef,learnable,cookingPotFood">
+			<ingredient name="imFoodSmallGameCut" count="1"/>
+			<ingredient name="drinkJarBoiledWater" count="1"/>
+		</recipe>
+
+		<recipe name="foodBoiledMeat" count="1" craft_area="campfire" craft_tool="toolCookingPot" tags="perkMasterChef,learnable,cookingPotFood">
+			<ingredient name="imFoodReptileCut" count="1"/>
+			<ingredient name="drinkJarBoiledWater" count="1"/>
+		</recipe>
+
+		<recipe name="foodBoiledMeat" count="1" craft_area="campfire" craft_tool="toolCookingPot" tags="perkMasterChef,learnable,cookingPotFood">
+			<ingredient name="imFoodVenisonCut" count="1"/>
+			<ingredient name="drinkJarBoiledWater" count="1"/>
+		</recipe>
+
+		<recipe name="foodBoiledMeat" count="1" craft_area="campfire" craft_tool="toolCookingPot" tags="perkMasterChef,learnable,cookingPotFood">
+			<ingredient name="imFoodPorkCut" count="1"/>
+			<ingredient name="drinkJarBoiledWater" count="1"/>
+		</recipe>
+
+		<recipe name="foodBoiledMeat" count="1" craft_area="campfire" craft_tool="toolCookingPot" tags="perkMasterChef,learnable,cookingPotFood">
+			<ingredient name="imFoodPredatorCut" count="1"/>
+			<ingredient name="drinkJarBoiledWater" count="1"/>
+		</recipe>
+
+		<recipe name="foodBoiledMeat" count="1" craft_area="campfire" craft_tool="toolCookingPot" tags="perkMasterChef,learnable,cookingPotFood">
+			<ingredient name="imFoodBearCut" count="1"/>
+			<ingredient name="drinkJarBoiledWater" count="1"/>
+		</recipe>
+	</append>
+
+</configs>
+

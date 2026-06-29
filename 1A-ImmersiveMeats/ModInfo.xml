@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<Name value="ImmersiveMeats" />
+	<DisplayName value="Immersive Meats" />
+	<Description value="Adds animal-specific meats, butchered cuts, and more immersive meat cooking paths." />
+	<Author value="Path-of-7D2D" />
+	<Version value="0.1.0" />
+	<Website value="https://github.com/Path-of-7D2D/Immersive-Meats" />
+</xml>
+
